@@ -1,1 +1,2 @@
-Front-end-page
+Front-end-page for the game goblins
+  
